@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+div#voltar {
+    width: 400px;
+    padding: 30px;
+    background-color: gray;
+    margin: auto;
+    font-size: 30px;
+    border-radius: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+img#i1 {
+    width: 500px;
+    padding-top: 30px;
+}
+
+img#i2 {
+    width: 450px;
+    padding-top: 30px;
+}
+
+img#i3 {
+    width: 550px;
+    padding-top: 30px;
+}
+
+img#i4 {
+    width: 400px;
+    padding-top: 30px;
+}
+
+img#i5 {
+    width: 400px;
+    padding-top: 30px;
+}
+
+img#i6 {
+    width: 250px;
+    padding-top: 30px;
+}
+
+img#i7 {
+    width: 370px;
+    padding-top: 30px;
+}
+
+img#i8 {
+    width: 420px;
+    padding-top: 30px;
+}
+
+img#i9 {
+    width: 500px;
+    padding-top: 30px;
+}
+
+img#i10 {
+    width: 500px;
+    padding-top: 30px;
+}
+
+div.pergunta {
+    background-color: lightgray;
+    width: 600px;
+    height: 650px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+div.opçao {
+    padding: 10px;
+    background-color: darkgray;
+    width: 400px;
+    margin: auto;
+    border-radius: 20px;
+    font-size: 20px;
+    
+}
